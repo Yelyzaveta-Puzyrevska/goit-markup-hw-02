@@ -196,10 +196,14 @@ img {
   font-weight: 400;
   line-height: 1.5;
   text-align: left;
+  letter-spacing: 0.02em;
 }
 
 /* footer */
 
+.footer-web {
+  background-color: #2e2f42;
+}
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -211,10 +215,10 @@ img {
 }
 
 .logo-item {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 
-.p {
+.footer-text {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
