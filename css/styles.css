@@ -106,10 +106,9 @@ img {
 /* header */
 
 /* 1 section */
+
 .section-title {
   background-color: #2e2f42;
-  width: 1440px;
-  top: 72px;
 }
 
 .main-title {
@@ -142,7 +141,6 @@ img {
 }
 
 .section-team {
-  width: 1440px;
   background: #f4f4fd;
 }
 
