@@ -11,9 +11,6 @@ button {
 img {
   display: block;
 }
-.no-activities {
-  visibility: hidden;
-}
 
 .body {
   font-family: "Roboto", sans-serif;
