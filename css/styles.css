@@ -15,11 +15,10 @@ img {
   visibility: hidden;
 }
 
-.body{
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF 
-
+.body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 /* header */
@@ -39,9 +38,10 @@ img {
 }
 
 .main-button {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5; */
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
@@ -96,7 +96,7 @@ img {
   font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
