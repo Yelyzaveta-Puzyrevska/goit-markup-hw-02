@@ -38,7 +38,7 @@ img {
 }
 
 .logo-footer {
-  background: #f4f4fd;
+  color: #f4f4fd;
 }
 .menu-link {
   font-weight: 500;
@@ -217,10 +217,6 @@ img {
   color: #4d5ae5;
 }
 
-.logo-item {
-  color: #f4f4fd;
-}
-
 .footer-text {
   font-family: Roboto;
   font-size: 16px;
@@ -228,5 +224,5 @@ img {
   line-height: 1.5;
   text-align: left;
   letter-spacing: 0.02em;
-  background: #f4f4fd;
+  color: #f4f4fd;
 }
