@@ -8,9 +8,6 @@ a {
 button {
   cursor: pointer;
 }
-img {
-  display: block;
-}
 
 .body {
   font-family: "Roboto", sans-serif;
@@ -141,7 +138,7 @@ img {
 }
 
 .section-team {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .section-team-tittle {
