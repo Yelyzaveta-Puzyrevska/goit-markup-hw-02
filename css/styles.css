@@ -51,6 +51,10 @@ img {
   color: #404bbf;
 }
 
+.link-kontakt {
+  font-style: normal;
+}
+
 .main-button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -73,10 +77,12 @@ img {
 .title-team {
   color: #2e2f42;
   font-family: Roboto;
+  text-transform: capitalize;
   font-size: 36px;
   font-weight: 700;
   line-height: 40px;
   letter-spacing: 0.02em;
+  line-height: 1.11;
   text-align: center;
 }
 
@@ -140,6 +146,10 @@ img {
   background: #f4f4fd;
 }
 
+.section-team-tittle {
+  background-color: #ffffff;
+}
+
 .team-name {
   font-family: Roboto;
   font-size: 20px;
@@ -154,6 +164,7 @@ img {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
